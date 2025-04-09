@@ -1,4 +1,4 @@
-# AdventureWorksLT-sales-dashboard
+# AdventureWorksLT-sales-Power BI dashboard
 ## Objective
 To analyze and present AdventureWorksLT sales data effectively using Power BI through data connection, shaping, combining, and visualization techniques.
 
