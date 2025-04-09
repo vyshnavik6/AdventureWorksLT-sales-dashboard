@@ -18,6 +18,9 @@ Data Combination: Import state data from Wikipedia, clean it, merge with sales d
 
 Visualizations: Develop a range of visuals (gauge, pie, stacked charts, maps) to present key metrics like TargetSales, LineTotal, and OrderQty.
 
+##  View Dashboard
+![dashboard](https://github.com/user-attachments/assets/5e83c4d2-5f1d-4e4b-8c8f-09626578f613)
+
 ## Insights
 The LineTotal and TargetSales measure offer valuable benchmarks to assess company and category performance.
 
